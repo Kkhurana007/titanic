@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "titanic"
+  site-url: "https://Kkhurana007.github.io/titanic"
+  description: "Titanic data analysis with numpy and pandas"
+  repo-branch: main
+  repo-url: "https://github.com/Kkhurana007/titanic"
